@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(131, 128, 128, 0.884);
+    background-image: url(/img/delicious-pizza.jpg);
+   
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+h1{
+color: rgb(255, 5, 5);
+font-family:'great vibes',cursive;
+font-size: 75px;
+    }
+h3{
+    color: white;
+}
+h6{
+    color: chartreuse;
+    font-size: 15px;
+}
+li{
+color: orange;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: aquamarine;
+    
+}
