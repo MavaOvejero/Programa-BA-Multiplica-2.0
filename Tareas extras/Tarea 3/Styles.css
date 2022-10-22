@@ -1,0 +1,16 @@
+
+#encabezado1{
+
+    border-bottom: solid #00F 2px;
+}
+h2{
+    border: solid 2px #AAA;
+}
+.Datos {
+    border-top: dotted 4px #F00;
+    border-bottom: dotted 4px #F00;
+}
+
+.Contenido{
+    border: dashed 2px #0f0;
+}
